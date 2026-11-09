@@ -23,7 +23,9 @@ SourDeck, Ekşi Sözlük’ü kişisel bir okuma alanına dönüştürür. Birde
 <p>
   <img src="assets/store-badges/mac-tr.svg" width="280" height="88" alt="Mac App Store — Yakında. macOS, Apple Silicon ve Intel.">
   &nbsp;
-  <img src="assets/store-badges/windows-tr.svg" width="280" height="88" alt="Microsoft Store — Yakında. Windows x64.">
+  <a href="https://apps.microsoft.com/detail/9n1q7lxcbn5s">
+    <img src="assets/store-badges/windows-tr.svg" width="280" height="88" alt="Microsoft Store — Hemen indir. Windows x64.">
+  </a>
 </p>
 
 ## Galeri

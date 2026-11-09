@@ -23,7 +23,9 @@ SourDeck turns Ekşi Sözlük into a personal reading workspace. Keep several to
 <p>
   <img src="assets/store-badges/mac-en.svg" width="280" height="88" alt="Mac App Store — Coming soon. macOS, Apple Silicon and Intel.">
   &nbsp;
-  <img src="assets/store-badges/windows-en.svg" width="280" height="88" alt="Microsoft Store — Coming soon. Windows x64.">
+  <a href="https://apps.microsoft.com/detail/9n1q7lxcbn5s">
+    <img src="assets/store-badges/windows-en.svg" width="280" height="88" alt="Microsoft Store — Download now. Windows x64.">
+  </a>
 </p>
 
 ## Gallery
